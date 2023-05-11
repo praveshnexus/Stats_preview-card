@@ -6,6 +6,6 @@ This is a github repository where I upload the solutions for challanges from Fro
 
 How to view the solutions?
 
-1.Access this [Demo]().  
+1.Access this [Demo](https://praveshnexus.github.io/Stats_preview-card/).  
 2.Click a challenge name.  
 3.Enjoy my live solution
